@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Addin>
+    <Url>zamis.addinBuilder.zamis.addinBuilder_0.0.1.mpack</Url>
+    <Addin>
+      <Id>zamis.addinBuilder</Id>
+      <Namespace>zamis.addinBuilder</Namespace>
+      <Name>zamis.addinBuilder</Name>
+      <Version>0.0.1</Version>
+      <BaseVersion />
+      <Author>Igor Borisov, igor.borisov</Author>
+      <Copyright>MIT/X11</Copyright>
+      <Url>https://github.com/zamis</Url>
+      <Description>zamis.addinBuilder</Description>
+      <Category>Addin Development</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>5.3</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>5.3</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::AddinMaker</AddinId>
+          <Version>1.0.1</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">3759</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>zamis.xwspbuilder.zamis.xwspbuilder_0.0.1.mpack</Url>
+    <Addin>
+      <Id>zamis.xwspbuilder</Id>
+      <Namespace>zamis.xwspbuilder</Namespace>
+      <Name>zamis.xwspbuilder</Name>
+      <Version>0.0.1</Version>
+      <BaseVersion />
+      <Author>Igor Borisov, igor.borisov</Author>
+      <Copyright>MIT/X11</Copyright>
+      <Url>https://github.com/zamis/XWSPBuilder</Url>
+      <Description>WSP Builder</Description>
+      <Category>SharePoint</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>5.3</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>5.3</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">17500</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>
