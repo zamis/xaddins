@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Addin>
-    <Url>zamis.addinBuilder.zamis.addinBuilder_0.0.1.mpack</Url>
+    <Url>zamis.addinBuilder_0.0.1.mpack</Url>
     <Addin>
-      <Id>zamis.addinBuilder</Id>
-      <Namespace>zamis.addinBuilder</Namespace>
-      <Name>zamis.addinBuilder</Name>
+      <Id>addinBuilder</Id>
+      <Namespace>zamis</Namespace>
+      <Name>addinBuilder</Name>
       <Version>0.0.1</Version>
       <BaseVersion />
-      <Author>Igor Borisov, igor.borisov</Author>
-      <Copyright>MIT/X11</Copyright>
+      <Author>igor.borisov</Author>
+      <Copyright />
       <Url>https://github.com/zamis</Url>
-      <Description>zamis.addinBuilder</Description>
+      <Description>addinBuilder</Description>
       <Category>Addin Development</Category>
       <Dependencies>
         <AddinDependency>
@@ -23,27 +23,27 @@
           <Version>5.3</Version>
         </AddinDependency>
         <AddinDependency>
-          <AddinId>::AddinMaker</AddinId>
+          <AddinId>::MonoDevelop.AddinMaker</AddinId>
           <Version>1.0.1</Version>
         </AddinDependency>
       </Dependencies>
       <OptionalDependencies />
       <Properties>
-        <Property name="DownloadSize">3759</Property>
+        <Property name="DownloadSize">3671</Property>
       </Properties>
     </Addin>
   </Addin>
   <Addin>
-    <Url>zamis.xwspbuilder.zamis.xwspbuilder_0.0.1.mpack</Url>
+    <Url>zamis.xwspbuilder_0.0.1.mpack</Url>
     <Addin>
-      <Id>zamis.xwspbuilder</Id>
-      <Namespace>zamis.xwspbuilder</Namespace>
-      <Name>zamis.xwspbuilder</Name>
+      <Id>xwspbuilder</Id>
+      <Namespace>zamis</Namespace>
+      <Name>wsp builder</Name>
       <Version>0.0.1</Version>
       <BaseVersion />
-      <Author>Igor Borisov, igor.borisov</Author>
-      <Copyright>MIT/X11</Copyright>
-      <Url>https://github.com/zamis/XWSPBuilder</Url>
+      <Author>igor.borisov</Author>
+      <Copyright />
+      <Url>https://github.com/zamis</Url>
       <Description>WSP Builder</Description>
       <Category>SharePoint</Category>
       <Dependencies>
@@ -58,7 +58,7 @@
       </Dependencies>
       <OptionalDependencies />
       <Properties>
-        <Property name="DownloadSize">17500</Property>
+        <Property name="DownloadSize">17433</Property>
       </Properties>
     </Addin>
   </Addin>
