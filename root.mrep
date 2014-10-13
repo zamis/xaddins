@@ -62,4 +62,33 @@
       </Properties>
     </Addin>
   </Addin>
+  <Addin>
+    <Url>zamis.ubBinding_0.0.1.mpack</Url>
+    <Addin>
+      <Id>ubBinding</Id>
+      <Namespace>zamis</Namespace>
+      <Name>ubBinding</Name>
+      <Version>0.0.1</Version>
+      <BaseVersion />
+      <Author>igor.borisov</Author>
+      <Copyright />
+      <Url>https://github.com/zamis</Url>
+      <Description>ubBinding</Description>
+      <Category>UB</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>5.6</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>5.6</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">135553</Property>
+      </Properties>
+    </Addin>
+  </Addin>
 </Repository>
