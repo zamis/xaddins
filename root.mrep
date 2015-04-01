@@ -6,7 +6,7 @@
       <Id>addinBuilder</Id>
       <Namespace>zamis</Namespace>
       <Name>addinBuilder</Name>
-      <Version>0.0.1</Version>
+      <Version>0.0.2</Version>
       <BaseVersion />
       <Author>igor.borisov</Author>
       <Copyright />
@@ -16,20 +16,20 @@
       <Dependencies>
         <AddinDependency>
           <AddinId>::MonoDevelop.Core</AddinId>
-          <Version>5.3</Version>
+          <Version>5.8.1</Version>
         </AddinDependency>
         <AddinDependency>
           <AddinId>::MonoDevelop.Ide</AddinId>
-          <Version>5.3</Version>
+          <Version>5.8.1</Version>
         </AddinDependency>
         <AddinDependency>
           <AddinId>::MonoDevelop.AddinMaker</AddinId>
-          <Version>1.0.1</Version>
+          <Version>1.2.1</Version>
         </AddinDependency>
       </Dependencies>
       <OptionalDependencies />
       <Properties>
-        <Property name="DownloadSize">3671</Property>
+        <Property name="DownloadSize">3157</Property>
       </Properties>
     </Addin>
   </Addin>
