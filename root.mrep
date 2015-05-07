@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Addin>
-    <Url>zamis.addinBuilder_0.0.1.mpack</Url>
+    <Url>zamis.addinBuilder_0.0.2.mpack</Url>
     <Addin>
       <Id>addinBuilder</Id>
       <Namespace>zamis</Namespace>
@@ -29,7 +29,7 @@
       </Dependencies>
       <OptionalDependencies />
       <Properties>
-        <Property name="DownloadSize">3157</Property>
+        <Property name="DownloadSize">3117</Property>
       </Properties>
     </Addin>
   </Addin>
